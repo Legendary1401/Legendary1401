@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Legendary1401
-- 👀 I’m interested in lua , batch
-- 🌱 I’m currently learning batch
+- 👀 I’m interested in lua , batch , python
+- 🌱 I’m currently learning python
 - 📫 How to reach me ɹoʇɐpǝɹd#7167 (discord)
 
 <!---
